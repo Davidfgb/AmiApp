@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551009933676",
+    "project_id": "amiapp-f1fbf",
+    "storage_bucket": "amiapp-f1fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551009933676:android:c53c79973c48c7df923b49",
+        "android_client_info": {
+          "package_name": "com.ean.amiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551009933676-f1j71s1v076sdek5j29j7bc4jqa7v7ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABnQ_ccVHpvsRb7WgqEcYrJl-TWoZRQx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551009933676-f1j71s1v076sdek5j29j7bc4jqa7v7ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
